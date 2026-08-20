@@ -1,0 +1,5 @@
+python-telegram-bot==22.8
+aiohttp==3.10.10
+aiosqlite==0.20.0
+apscheduler==3.10.4
+pytz==2024.2
