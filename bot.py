@@ -45,8 +45,8 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
 VERIFICATION_CHANNELS = [
     {"username": "@SRK_ERA", "id": int(os.getenv("CHANNEL_1_ID", "0"))},
     {"username": "@SRK_IMP1", "id": int(os.getenv("CHANNEL_2_ID", "0"))},
-    {"username": "@snnetwork7", "id": int(os.getenv("CHANNEL_3_ID", "0"))},
-    {"username": "@SNxFF_IND", "id": int(os.getenv("CHANNEL_4_ID", "0"))},
+    {"username": "@sr_ofc", "id": int(os.getenv("CHANNEL_3_ID", "0"))},
+    {"username": "@srking000001", "id": int(os.getenv("CHANNEL_4_ID", "0"))},
 ]
 
 # Backup Channel for Database
