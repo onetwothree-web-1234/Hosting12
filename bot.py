@@ -81,7 +81,7 @@ LIKE_LIMIT_PER_DAY   = 1        # per user, per day
 VISIT_COOLDOWN_SECS  = 25       # per user, between /visit uses
 
 # Auto-like: fires every day at this time (Asia/Kolkata)
-AUTOLIKE_HOUR   = 16
+AUTOLIKE_HOUR   = 4
 AUTOLIKE_MINUTE = 0
 AUTOLIKE_WORKERS = 25           # parallel workers so all IDs fire almost together
 
