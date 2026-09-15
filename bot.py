@@ -83,7 +83,7 @@ MAIN_GROUP_LINK = "https://t.me/SRKING000001"
 HIGHEST_LIKE_POST_CHANNEL = "@SRK_ERA"
 
 # The two third-party APIs
-LIKE_API_URL  = "https://srk-live-like-api.vercel.app/like?uid={uid}&server_name={region}"
+LIKE_API_URL  = "https://220like-api.vercel.app/like?uid={uid}&server_name={region}"
 VISIT_API_URL = "http://visit-api10k.up.railway.app/{region}/{uid}"
 
 # Limits
